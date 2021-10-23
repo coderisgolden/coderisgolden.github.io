@@ -1,0 +1,51 @@
+
+
+.kolla{
+    background-color: lightgreen;
+}
+
+.contact{
+    
+   height: 500px;
+   text-align: left;
+   border: none;
+    
+
+}
+
+.contact img{
+
+    
+    
+    width:  300px;
+    height: 400px;
+    /*object-fit: cover;*/
+    object-fit:scale-down;
+
+}
+
+.contactt p{
+
+    line-height: 20px;
+}
+
+.kontakt{
+    
+
+}
+
+
+.kontakt img{
+    width: auto;
+    height: 400px;
+    /*object-fit: cover;*/
+    object-fit:scale-down;
+}
+.kontakt-text{
+
+    line-height: 16px;
+    
+}
+
+
+
